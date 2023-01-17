@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    background-position: center;
+    justify-content: center;
+    background-image: url(./assets/img/Skyrim.jpeg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(225, 225, 225);
+    text-align: center;
+    margin: 300px;
+    font-size: 1000%;
+    font-family: 'gausshauss', sans-serif;
+    font-weight: light;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; 
+}
